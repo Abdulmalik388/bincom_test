@@ -27,6 +27,9 @@
     </script>
 </head>
 <body>
+    <?php
+include("include/navbar.php")
+?>
     <div class="container mt-5">
         <h1 class="text-center">Store Results for New Polling Unit</h1>
 
